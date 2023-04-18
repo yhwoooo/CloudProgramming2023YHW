@@ -133,3 +133,6 @@ dmypy.json
 
 # DB migrations
 migrations/
+
+# media
+_media/
